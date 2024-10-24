@@ -11,3 +11,4 @@
   Annual Income (k$): The annual income of the customer in thousands of dollars.
   Spending Score (1-100): The spending score assigned to the customer on a scale of 1-100, based on their behavior and spending habits.
 ## Output:
+![customer output](https://github.com/user-attachments/assets/20569ecd-439a-45f5-89a2-7f378c32073d)
