@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 from sklearn.cluster import KMeans
 from sklearn.preprocessing import StandardScaler
-file_path = r'customer-segmmendatio\Mall_Customers.csv' 
+file_path = r"C:\Users\hp\Downloads\Mall_Customers.csv"
 data = pd.read_csv(file_path)
 print("First 5 rows of the dataset:")
 print(data.head())
